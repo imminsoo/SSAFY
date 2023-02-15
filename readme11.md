@@ -170,6 +170,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 
 
 📌 **권태윤**
+
 <img src = https://user-images.githubusercontent.com/68771699/218958274-bcb3a119-33dd-40e1-bfac-d05be1ae52d6.jpg width='224' height='298'>
 
 
