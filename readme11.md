@@ -107,8 +107,8 @@ Runstory는 말그대로 “달리는 이야기”입니다.
     - 레벨과 경험치를 통해 사용자에게 동기부여를 줄 수 있습니다.
     - 경험치는 운동 인증을 통해 획득할 수 있습니다.
     - 등급(맨발 → 짚신 → 고무신 → 캔버스 → 날개달린 신발)
+![shoes](https://user-images.githubusercontent.com/68771699/218957977-976e96d6-8912-46da-8faf-61cc53f02083.jpg)
         
-https://www.notion.so/tykwon97/A806-2-0d1908d50503489e9f70d360c0eeb904?pvs=4#67f2f95b1db246fb90601c128141c5e5
         
 
 # 👥 6. 멤버
