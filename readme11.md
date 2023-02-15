@@ -74,7 +74,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/246e5bf0-1549-49d0-af01-05da5d24a10e/pngwing.com_(3).png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/246e5bf0-1549-49d0-af01-05da5d24a10e/pngwing.com_(3).png" width="40px" /> **HTML**
+<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/246e5bf0-1549-49d0-af01-05da5d24a10e/pngwing.com.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/246e5bf0-1549-49d0-af01-05da5d24a10e/pngwing.com_(3).png" width="40px" /> **HTML**
 
 </aside>
 
