@@ -114,7 +114,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 # 👥 6. 멤버
 
 ---
-<div>
+<p>
 <aside>
 📌 **신도연 (👑PM)**
 
@@ -137,7 +137,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 - AWS 및 CI/CD 구성
 - REST API 설계 및 API 키 관리
 </aside>
-</div>
+</p>
 <aside>
 📌 **박용찬**
 
