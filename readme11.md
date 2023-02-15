@@ -164,28 +164,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 ---
 
 
-📌 **신도연 (👑PM)**
-
-<img src = https://user-images.githubusercontent.com/68771699/218958242-89528d5d-bd22-4cbd-a294-2892e7b29d68.jpg width='224' height='298'>
-
-
-- Back-end
-- DB설계
-- REST API 설계 및 관리
-- 기획, 협업툴 및 문서관리
-
-
-
-📌 **권태윤**
-
-<img src = https://user-images.githubusercontent.com/68771699/218958274-bcb3a119-33dd-40e1-bfac-d05be1ae52d6.jpg width='224' height='298'>
-
-
-
-- Back-end
-- AWS 및 CI/CD 구성
-- REST API 설계 및 API 키 관리
-
+![image](https://user-images.githubusercontent.com/68771699/219030382-50a6ba25-a08b-4dfe-8669-71172db7c59f.png)
 📌 **박용찬**
 
 <img src = https://user-images.githubusercontent.com/68771699/218958300-b68830d4-0bf3-4adf-80df-b84661879f00.jpg width='224' height='298'>
