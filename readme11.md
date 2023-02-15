@@ -32,9 +32,9 @@
 
 </aside>
 
-![image](https://www.notion.so/tykwon97/A806-2-0d1908d50503489e9f70d360c0eeb904?pvs=4#9a2b97c9566146d9aba2bd0c40132d8d)
+![Untitled](https://user-images.githubusercontent.com/68771699/218952435-04aec16b-8f14-475f-b113-ab14b17b0e59.png)
 
-![image](A806%202%E1%84%8E%E1%85%A1%20%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1%20%E1%84%85%E1%85%A6%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%200d1908d50503489e9f70d360c0eeb904/Untitled%201.png)
+![Untitled (1)](https://user-images.githubusercontent.com/68771699/218952461-5b7182d3-478f-4e0e-bd64-5d0f63ba1369.png)
 
 ## 📎 3. 서비스 소개
 
