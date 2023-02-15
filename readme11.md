@@ -1,4 +1,6 @@
 # 🏃‍♂️런스토리 - 런닝 데이터 기반 SNS 모바일웹
+![image](https://user-images.githubusercontent.com/68771699/218949564-09bbab1f-b862-4270-8f3a-039c5fb2aaf3.png)
+
 
 ## 📎 진행 기간
 
