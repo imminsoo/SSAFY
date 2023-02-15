@@ -114,10 +114,10 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 # 👥 6. 멤버
 
 ---
-<p>
+
 <aside>
 📌 **신도연 (👑PM)**
-
+<p>
 <img src = https://user-images.githubusercontent.com/68771699/218958242-89528d5d-bd22-4cbd-a294-2892e7b29d68.jpg width='100' height='100'>
 
 
