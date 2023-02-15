@@ -118,7 +118,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 <aside>
 📌 **신도연 (👑PM)**
 
-<img src = https://user-images.githubusercontent.com/68771699/218958242-89528d5d-bd22-4cbd-a294-2892e7b29d68.jpg width='330' height='450'>
+<img src = https://user-images.githubusercontent.com/68771699/218958242-89528d5d-bd22-4cbd-a294-2892e7b29d68.jpg width='320' height='450'>
 
 
 - Back-end
