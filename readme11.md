@@ -79,7 +79,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ![Untitled (3)](https://user-images.githubusercontent.com/68771699/218964261-60046239-e5fe-4dcb-8f0f-a9778d9720da.png)
 
-### FIGMA에서 살펴보기!!
+### 📎 FIGMA에서 살펴보기!!
 [RunStory 스토리보드](https://www.figma.com/file/qjuHNpuMTWCl7JFoUKp1X7/)
 
 ### 📎 ERD
