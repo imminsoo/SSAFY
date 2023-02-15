@@ -411,10 +411,6 @@ server-back
 
 ---
 
-### 📎 PPT
-
-[RUNSTORY](https://www.miricanvas.com/v/11qbr99)
-
 ### 📎 최종PPT
 
 추후 제작될 예정입니다.
