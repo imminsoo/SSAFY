@@ -109,7 +109,8 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 
 ## 📎 6. 기술 스택
 
-![image](https://user-images.githubusercontent.com/68771699/218957022-0ff3d8f8-5834-4984-9c58-e31c2931b5b0.png)
+![image](https://user-images.githubusercontent.com/68771699/219011036-4652d5ed-c7f7-4286-8d90-e620603893de.png)
+
 
 
 ## 📎 7. 주요 기능
