@@ -166,7 +166,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ![image](https://user-images.githubusercontent.com/68771699/219030382-50a6ba25-a08b-4dfe-8669-71172db7c59f.png)
 
-![image](https://user-images.githubusercontent.com/68771699/219030688-8431fe6a-4656-4ab7-91e8-bada552b9729.png)
+![image](https://user-images.githubusercontent.com/68771699/219031464-972099ea-02ac-4c26-9f6f-5c89e1f4b8e7.png)
 
 ![image](https://user-images.githubusercontent.com/68771699/219031018-2525aa0b-5ee5-45db-8623-7ed171a4b7d7.png)
 
