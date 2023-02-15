@@ -301,17 +301,19 @@ server-back
 
 ### 📎 와이어프레임
 
-![Untitled](A806%202%E1%84%8E%E1%85%A1%20%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1%20%E1%84%85%E1%85%A6%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%200d1908d50503489e9f70d360c0eeb904/Untitled%202.png)
+![Untitled (2)](https://user-images.githubusercontent.com/68771699/218964244-d0044c57-6f41-4902-ac65-d1cebbaff7ed.png)
+
 
 ### 📎 스토리보드(프로토타입)
 
-![Untitled](A806%202%E1%84%8E%E1%85%A1%20%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1%20%E1%84%85%E1%85%A6%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%200d1908d50503489e9f70d360c0eeb904/Untitled%203.png)
+![Untitled (3)](https://user-images.githubusercontent.com/68771699/218964261-60046239-e5fe-4dcb-8f0f-a9778d9720da.png)
+
 
 [RunStory 스토리보드](https://www.figma.com/file/qjuHNpuMTWCl7JFoUKp1X7/)
 
 ### 📎 ERD
 
-![Runstory_ERD.png](A806%202%E1%84%8E%E1%85%A1%20%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1%20%E1%84%85%E1%85%A6%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%200d1908d50503489e9f70d360c0eeb904/Runstory_ERD.png)
+![Runstory_ERD](https://user-images.githubusercontent.com/68771699/218964285-c5f7a190-5dd6-4935-850c-50a06a96b917.png)
 
 ### 📎 회의록
 
