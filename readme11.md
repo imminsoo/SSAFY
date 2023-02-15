@@ -32,10 +32,6 @@
 
 </aside>
 
-![Untitled](https://user-images.githubusercontent.com/68771699/218952435-04aec16b-8f14-475f-b113-ab14b17b0e59.png)
-
-![Untitled (1)](https://user-images.githubusercontent.com/68771699/218952461-5b7182d3-478f-4e0e-bd64-5d0f63ba1369.png)
-
 ## 📎 3. 서비스 소개
 
 ---
