@@ -168,7 +168,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 - 기획, 협업툴 및 문서관리
 
 
-<aside>
+
 📌 **권태윤**
 <img src = https://user-images.githubusercontent.com/68771699/218958274-bcb3a119-33dd-40e1-bfac-d05be1ae52d6.jpg width='224' height='298'>
 
@@ -177,8 +177,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 - Back-end
 - AWS 및 CI/CD 구성
 - REST API 설계 및 API 키 관리
-</aside>
-<aside>
+
 📌 **박용찬**
 
 <img src = https://user-images.githubusercontent.com/68771699/218958300-b68830d4-0bf3-4adf-80df-b84661879f00.jpg width='224' height='298'>
@@ -188,9 +187,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 - AWS 및 CI/CD 구성
 - REST API 설계 및 관리
 - 아키텍쳐 설계
-</aside>
 
-<aside>
 📌 **원송희**
 
 <img src = https://user-images.githubusercontent.com/68771699/218958319-950858ca-4e90-4815-9839-eab438619e33.jpg width='224' height='298'>
@@ -200,9 +197,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 - UI/UX 제작
 - 디자인 기획
 - 와이어프레임 설계
-</aside>
 
-<aside>
 📌 **남기성**
 
 <img src = https://user-images.githubusercontent.com/68771699/218958336-48502d18-17bd-4bf4-810c-b2321fa4b894.jpg width='224' height='298'>
@@ -211,9 +206,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 - Front-end
 - UI/UX 제작
 - UCC 제작 및 문서관리
-</aside>
 
-<aside>
 📌 **임민수**
 
 <img src = https://user-images.githubusercontent.com/68771699/218958352-04a2554b-d2d0-45a1-a2b8-21c54fe432b5.jpg width='224' height='298'>
@@ -223,7 +216,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 - REST API 설계 및 관리
 - 프로젝트 기획
 
-</aside>
+
 
 ## 📂 9. 프로젝트 파일 구조
 
