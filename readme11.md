@@ -171,26 +171,6 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 ![image](https://user-images.githubusercontent.com/68771699/219031857-62a6b8cd-e531-4c8f-8886-67c0b5f2d693.png)
 
 
-📌 **남기성**
-
-<img src = https://user-images.githubusercontent.com/68771699/218958336-48502d18-17bd-4bf4-810c-b2321fa4b894.jpg width='224' height='298'>
-
-
-- Front-end
-- UI/UX 제작
-- UCC 제작 및 문서관리
-
-📌 **임민수**
-
-<img src = https://user-images.githubusercontent.com/68771699/218958352-04a2554b-d2d0-45a1-a2b8-21c54fe432b5.jpg width='224' height='298'>
-
-
-- Back-end
-- REST API 설계 및 관리
-- 프로젝트 기획
-
-
-
 ## 📂 9. 프로젝트 파일 구조
 
 ---
