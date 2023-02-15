@@ -59,9 +59,9 @@ Runstory는 여러분과 함께 달리려 합니다!
 
 Runstory는 말그대로 “**달리는 이야기**”입니다.
 
-내가 달린 기록을 저장하고, 개인피드를 통해 다른 러너와 공유합니다. 
+내가 달린 기록을 **저장**하고, 개인피드를 통해 다른 러너와 공유합니다. 
 
-그리고 러닝크루 모집을 통해 다른 러너와 함께 뛸 수도 있습니다.
+그리고 러닝크루 모집을 통해 다른 러너와 **함께** 뛸 수도 있습니다.
 
 
 
@@ -79,7 +79,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ![Untitled (3)](https://user-images.githubusercontent.com/68771699/218964261-60046239-e5fe-4dcb-8f0f-a9778d9720da.png)
 
-### 📎 FIGMA에서 살펴보기!!
+### 📎 FIGMA에서 살펴보기!
 [RunStory 스토리보드](https://www.figma.com/file/qjuHNpuMTWCl7JFoUKp1X7/)
 
 ### 📎 ERD
@@ -101,6 +101,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 ## 📋 4. 발표 PPT / UCC
 
 ### 📎 PPT
+
 
 ### 📎 UCC
 
