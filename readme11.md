@@ -318,15 +318,15 @@ server-back
 
 ### 📎 회의록
 
-[회의록](https://www.notion.so/dea137c774314df9bfc3bbb110570402)
+- [회의록](https://www.notion.so/dea137c774314df9bfc3bbb110570402)
 
 ### 📎 컨벤션
 
-[프로젝트 컨벤션](https://www.notion.so/be58eb22e84b457abc27ad45cfd47311)
+- [프로젝트 컨벤션](https://www.notion.so/be58eb22e84b457abc27ad45cfd47311)
 
 ### 📎포팅메뉴얼
 
-[포팅 메뉴얼](https://www.notion.so/2d9d95ba81704cda989dde3be13820be)
+- [포팅 메뉴얼](https://www.notion.so/2d9d95ba81704cda989dde3be13820be)
 
 ## 📋 10. 발표 PPT
 
