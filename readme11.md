@@ -88,7 +88,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ### 📎 회의록
 
-- <span style=background-color = red>[회의록](https://www.notion.so/dea137c774314df9bfc3bbb110570402)</span>
+- <span style=background-color:'red'>[회의록](https://www.notion.so/dea137c774314df9bfc3bbb110570402)</span>
 
 ### 📎 컨벤션
 
