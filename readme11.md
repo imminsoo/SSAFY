@@ -71,15 +71,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 ## 🚀  4. Stacks
 
 ---
-
-## 
-
----
-
-<aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/246e5bf0-1549-49d0-af01-05da5d24a10e/pngwing.com_(3).png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/246e5bf0-1549-49d0-af01-05da5d24a10e/pngwing.com_(3).png" width="40px" /> **HTML**
-
-</aside>
+https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png
 
 <aside>
 <img src="A806%202%E1%84%8E%E1%85%A1%20%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1%20%E1%84%85%E1%85%A6%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%200d1908d50503489e9f70d360c0eeb904/pngwing.com_(1).png" alt="A806%202%E1%84%8E%E1%85%A1%20%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1%20%E1%84%85%E1%85%A6%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%200d1908d50503489e9f70d360c0eeb904/pngwing.com_(1).png" width="40px" /> **CSS(SCSS)**
