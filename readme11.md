@@ -129,7 +129,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 
 <aside>
 📌 **권태윤**
-<img src = https://user-images.githubusercontent.com/68771699/218958274-bcb3a119-33dd-40e1-bfac-d05be1ae52d6.jpg width='320' height='440'>
+<img src = https://user-images.githubusercontent.com/68771699/218958274-bcb3a119-33dd-40e1-bfac-d05be1ae52d6.jpg width='224' height='298'>
 
 
 
@@ -140,7 +140,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 <aside>
 📌 **박용찬**
 
-![박용찬](https://user-images.githubusercontent.com/68771699/218958300-b68830d4-0bf3-4adf-80df-b84661879f00.jpg)
+<img src = https://user-images.githubusercontent.com/68771699/218958300-b68830d4-0bf3-4adf-80df-b84661879f00.jpg width='224' height='298'>
 
 
 - Back-end
@@ -152,7 +152,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 <aside>
 📌 **원송희**
 
-![원송희](https://user-images.githubusercontent.com/68771699/218958319-950858ca-4e90-4815-9839-eab438619e33.jpg)
+<img src = https://user-images.githubusercontent.com/68771699/218958319-950858ca-4e90-4815-9839-eab438619e33.jpg width='224' height='298'>
 
 
 - Front-end
@@ -164,7 +164,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 <aside>
 📌 **남기성**
 
-![남기성](https://user-images.githubusercontent.com/68771699/218958336-48502d18-17bd-4bf4-810c-b2321fa4b894.jpg)
+<img src = https://user-images.githubusercontent.com/68771699/218958336-48502d18-17bd-4bf4-810c-b2321fa4b894.jpg)
 
 
 - Front-end
@@ -175,7 +175,7 @@ Runstory는 말그대로 “달리는 이야기”입니다.
 <aside>
 📌 **임민수**
 
-![임민수](https://user-images.githubusercontent.com/68771699/218958352-04a2554b-d2d0-45a1-a2b8-21c54fe432b5.jpg)
+<img src = https://user-images.githubusercontent.com/68771699/218958352-04a2554b-d2d0-45a1-a2b8-21c54fe432b5.jpg width='224' height='298'>
 
 
 - Back-end
