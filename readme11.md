@@ -165,25 +165,9 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 
 ![image](https://user-images.githubusercontent.com/68771699/219030382-50a6ba25-a08b-4dfe-8669-71172db7c59f.png)
-📌 **박용찬**
 
-<img src = https://user-images.githubusercontent.com/68771699/218958300-b68830d4-0bf3-4adf-80df-b84661879f00.jpg width='224' height='298'>
+![image](https://user-images.githubusercontent.com/68771699/219030551-bd3582e1-f540-4150-995c-929d8e803d09.png)
 
-
-- Back-end
-- AWS 및 CI/CD 구성
-- REST API 설계 및 관리
-- 아키텍쳐 설계
-
-📌 **원송희**
-
-<img src = https://user-images.githubusercontent.com/68771699/218958319-950858ca-4e90-4815-9839-eab438619e33.jpg width='224' height='298'>
-
-
-- Front-end
-- UI/UX 제작
-- 디자인 기획
-- 와이어프레임 설계
 
 📌 **남기성**
 
