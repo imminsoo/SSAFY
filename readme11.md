@@ -147,7 +147,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ### ✅ 지도 기능
 
-![image](https://user-images.githubusercontent.com/68771699/219242385-28ac43e1-ad63-4e6f-949a-71d7a767ea81.png)
+![image](https://user-images.githubusercontent.com/68771699/219308161-3b541ab0-5c9d-4290-a86a-7cc554990931.png)
 
 - Tmap을 API를 사용한 지도를 통하여 지점 사이의 거리를 확인 할 수 있습니다.
         
