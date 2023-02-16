@@ -126,6 +126,10 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 ![shoes](https://user-images.githubusercontent.com/68771699/218957977-976e96d6-8912-46da-8faf-61cc53f02083.jpg)
 
 ### ✅ 댓글기능
+
+![image](https://user-images.githubusercontent.com/68771699/219307713-7a9464e8-96f3-46fa-9e69-b041962a76ce.png)
+
+- 댓글 확인 및 대댓글 작성이 가능합니다.
   
 ### ✅ 검색 기능
 
