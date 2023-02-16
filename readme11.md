@@ -139,7 +139,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ### ✅ 채팅 기능
 
-![image](https://user-images.githubusercontent.com/68771699/219249012-c3040b5d-6d66-45d6-bb98-cfc2a28df996.png)
+![image](https://user-images.githubusercontent.com/68771699/219308052-54da60c5-94c0-43f2-a444-9fe9f0e73dbb.png)
 
     
 - 일대일 채팅 및 러닝 크루 단체 채팅방을 통해 사용자들과 소통할 수 있습니다.
