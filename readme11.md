@@ -149,7 +149,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ### ✅ 챗봇 기능
 
-![image](https://user-images.githubusercontent.com/68771699/219231416-ef14900c-65e5-4010-a5dc-2950e7fc3bf7.png)
+![image](https://user-images.githubusercontent.com/68771699/219303654-f687ce5f-39c0-4935-9bba-54ef393056ec.png)
 
  - RunStory에 대해 궁금한 점이나 더 알고 싶은 점에 대한 정보를 제공합니다.
 
