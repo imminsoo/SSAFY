@@ -103,9 +103,8 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ### ✅ 피드 공유 기능
 
+![image](https://user-images.githubusercontent.com/68771699/219305062-31d7f038-0b3c-4423-8c8d-e251a3dbc5f1.png)
 
-
-![image](https://user-images.githubusercontent.com/68771699/219304201-3264a3c1-c898-491d-bd1b-fc92a91a8e22.png)
 
 
 - **피드 작성**
