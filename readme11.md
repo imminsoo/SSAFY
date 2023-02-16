@@ -4,11 +4,11 @@
 ## 🚀목차
 1. 진행기간
 2. 개요 / 서비스 소개
-3. 프로젝트 산출물
-4. 발표 PPT / UCC
-5. 프로젝트 타임라인
-6. 기술 스택
-7. 주요기능
+3. 주요기능
+4. 프로젝트 산출물
+5. 발표 PPT / UCC
+6. 프로젝트 타임라인
+7. 기술 스택
 8. 멤버
 9. 프로젝트 파일구조
 10. 협업환경
@@ -65,61 +65,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 
 
-
-## 📌 3. 프로젝트 산출물
-
----
-
-### 📎 와이어프레임
-
-![Untitled (2)](https://user-images.githubusercontent.com/68771699/218964244-d0044c57-6f41-4902-ac65-d1cebbaff7ed.png)
-
-
-### 📎 스토리보드(프로토타입)
-
-![Untitled (3)](https://user-images.githubusercontent.com/68771699/218964261-60046239-e5fe-4dcb-8f0f-a9778d9720da.png)
-
-### 📎 FIGMA에서 살펴보기!
-[RunStory 스토리보드](https://www.figma.com/file/qjuHNpuMTWCl7JFoUKp1X7/)
-
-### 📎 ERD
-
-![Runstory_ERD](https://user-images.githubusercontent.com/68771699/218964285-c5f7a190-5dd6-4935-850c-50a06a96b917.png)
-
-### 📎 회의록
-
-- [회의록](https://www.notion.so/dea137c774314df9bfc3bbb110570402)
-
-### 📎 컨벤션
-
-- [프로젝트 컨벤션](https://www.notion.so/be58eb22e84b457abc27ad45cfd47311)
-
-### 📎포팅메뉴얼
-
-- [포팅 메뉴얼](https://www.notion.so/2d9d95ba81704cda989dde3be13820be)
-
-## 📋 4. 발표 PPT / UCC
-
-### 📎 PPT
-
-
-### 📎 UCC
-
-
-## 🕑 5. 프로젝트 타임라인
-
----
-
-![Untitled (4)](https://user-images.githubusercontent.com/68771699/218964492-101a4c3c-5e54-4701-9f4d-9fd82f0d99c2.png)
-
-
-## 📎 6. 기술 스택
-
-![image](https://user-images.githubusercontent.com/68771699/219011184-27d65681-651f-4d45-a527-14fc79f089ea.png)
-
-
-
-## 📎 7. 주요 기능
+## 📎 3. 주요 기능
 
 ---
 
@@ -158,6 +104,60 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 ![shoes](https://user-images.githubusercontent.com/68771699/218957977-976e96d6-8912-46da-8faf-61cc53f02083.jpg)
         
         
+
+## 📌 4. 프로젝트 산출물
+
+---
+
+### 📎 와이어프레임
+
+![Untitled (2)](https://user-images.githubusercontent.com/68771699/218964244-d0044c57-6f41-4902-ac65-d1cebbaff7ed.png)
+
+
+### 📎 스토리보드(프로토타입)
+
+![Untitled (3)](https://user-images.githubusercontent.com/68771699/218964261-60046239-e5fe-4dcb-8f0f-a9778d9720da.png)
+
+### 📎 FIGMA에서 살펴보기!
+[RunStory 스토리보드](https://www.figma.com/file/qjuHNpuMTWCl7JFoUKp1X7/)
+
+### 📎 ERD
+
+![Runstory_ERD](https://user-images.githubusercontent.com/68771699/218964285-c5f7a190-5dd6-4935-850c-50a06a96b917.png)
+
+### 📎 회의록
+
+- [회의록](https://www.notion.so/dea137c774314df9bfc3bbb110570402)
+
+### 📎 컨벤션
+
+- [프로젝트 컨벤션](https://www.notion.so/be58eb22e84b457abc27ad45cfd47311)
+
+### 📎포팅메뉴얼
+
+- [포팅 메뉴얼](https://www.notion.so/2d9d95ba81704cda989dde3be13820be)
+
+## 📋 5. 발표 PPT / UCC
+
+### 📎 PPT
+
+
+### 📎 UCC
+
+
+## 🕑 6. 프로젝트 타임라인
+
+---
+
+![Untitled (4)](https://user-images.githubusercontent.com/68771699/218964492-101a4c3c-5e54-4701-9f4d-9fd82f0d99c2.png)
+
+
+## 📎 7. 기술 스택
+
+![image](https://user-images.githubusercontent.com/68771699/219011184-27d65681-651f-4d45-a527-14fc79f089ea.png)
+
+
+
 
 # 👥 8. 멤버
 
