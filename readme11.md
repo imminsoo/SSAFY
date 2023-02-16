@@ -139,8 +139,6 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ### ✅ 채팅 기능
 
-![image](https://user-images.githubusercontent.com/68771699/219308052-54da60c5-94c0-43f2-a444-9fe9f0e73dbb.png)
-
 ![image](https://user-images.githubusercontent.com/68771699/219362165-32cf5d6d-bd21-4478-9c12-0ec1ab4fee3b.png)
 
     
