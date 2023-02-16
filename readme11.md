@@ -136,7 +136,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 - 게시글, 댓글, 채팅 메세지 등에 대한 알림을 제공합니다.
 
-### 지도 확인 기능
+### ✅ 지도 기능
 
 ![image](https://user-images.githubusercontent.com/68771699/219242385-28ac43e1-ad63-4e6f-949a-71d7a767ea81.png)
 
