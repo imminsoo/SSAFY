@@ -71,7 +71,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ### ✅ 일반 로그인 / 카카오 로그인 
 
-![image](https://user-images.githubusercontent.com/68771699/219247611-393be3fa-cb06-4848-9633-6cfea3d5fc7b.png)
+![image](https://user-images.githubusercontent.com/68771699/219304434-4b15cc2d-a104-4faf-8b41-653eb28fc0ad.png)
 
 - 카카오 계정을 연동한 로그인과 일반 로그인이 모두 가능합니다.
 
