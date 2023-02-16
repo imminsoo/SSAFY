@@ -104,9 +104,8 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 ### ✅ 피드 공유 기능
 
 
-# 피드 사진으로 수정하기
 
-![image](https://user-images.githubusercontent.com/68771699/219233166-bf3cdf54-5ee0-40d2-99f2-95c5e6160028.png)
+![image](https://user-images.githubusercontent.com/68771699/219304201-3264a3c1-c898-491d-bd1b-fc92a91a8e22.png)
 
 
 - **피드 작성**
