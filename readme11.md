@@ -102,10 +102,16 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ### ✅ 메인 페이지 러닝 정보 확인 기능
 
+
+
+
 ![image](https://user-images.githubusercontent.com/68771699/219306826-4d0d25d0-1344-42b3-8eeb-9001f17c090e.png)
 
 
 ### ✅ 피드 공유 기능
+
+![image](https://user-images.githubusercontent.com/68771699/219371552-0001e22a-8f25-442f-a7c7-c0bd17b1addc.png)
+
 
 ![image](https://user-images.githubusercontent.com/68771699/219305062-31d7f038-0b3c-4423-8c8d-e251a3dbc5f1.png)
 
