@@ -117,7 +117,11 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
     - 등급(맨발 → 짚신 → 고무신 → 캔버스 → 날개달린 신발)
 ![shoes](https://user-images.githubusercontent.com/68771699/218957977-976e96d6-8912-46da-8faf-61cc53f02083.jpg)
   
+### ✅ 검색 기능
 
+![image](https://user-images.githubusercontent.com/68771699/219240187-e873670f-dc5a-4a12-8115-0068ea9dfbc5.png)
+
+- 피드별, 유저별, 러닝크루별로 검색할 수 있습니다.
 
 ### ✅ 채팅 기능
 
