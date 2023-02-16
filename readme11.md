@@ -78,7 +78,6 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 ### ✅ 러닝크루 모집 / 예약 기능
 
 
-
 ![image](https://user-images.githubusercontent.com/68771699/219232526-dce19c1f-847e-4a3a-a803-2dec3aebe38c.png)
 
 - **러닝 모임 작성**
@@ -102,8 +101,10 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
     - 사용자 위치 기반과 시간을 활용해 거짓된 인증을 차단합니다.
     - 사용자가 운동을 인증한 경우 경험치를 획득할 수 있습니다.
 
-### ✅ 피드 기능
+### ✅ 피드 공유 기능
 
+
+# 피드 사진으로 수정하기
 
 ![image](https://user-images.githubusercontent.com/68771699/219233166-bf3cdf54-5ee0-40d2-99f2-95c5e6160028.png)
 
@@ -122,6 +123,8 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
     - 경험치는 운동 인증을 통해 획득할 수 있습니다.
     - 등급(맨발 → 짚신 → 고무신 → 캔버스 → 날개달린 신발)
 ![shoes](https://user-images.githubusercontent.com/68771699/218957977-976e96d6-8912-46da-8faf-61cc53f02083.jpg)
+
+### ✅ 댓글기능
   
 ### ✅ 검색 기능
 
@@ -137,12 +140,6 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 - 일대일 채팅 및 러닝 크루 단체 채팅방을 통해 사용자들과 소통할 수 있습니다.
 
 
-### ✅ 알림 기능
-
-![image](https://user-images.githubusercontent.com/68771699/219240814-a9fabdb5-f1cc-461f-b3de-2f14fda7c8cb.png)
-
-- 게시글, 댓글, 채팅 메세지 등에 대한 알림을 제공합니다.
-
 ### ✅ 지도 기능
 
 ![image](https://user-images.githubusercontent.com/68771699/219242385-28ac43e1-ad63-4e6f-949a-71d7a767ea81.png)
@@ -157,6 +154,8 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
  - RunStory에 대해 궁금한 점이나 더 알고 싶은 점에 대한 정보를 제공합니다.
 
 ### ✅ 차단 기능
+
+
 
 - 원하지 않는 사람을 차단합니다.
 
