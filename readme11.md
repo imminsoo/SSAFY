@@ -1,5 +1,5 @@
 # 🏃‍♂️런스토리 - 런닝 데이터 기반 SNS 모바일웹
-![image](https://user-images.githubusercontent.com/68771699/218949564-09bbab1f-b862-4270-8f3a-039c5fb2aaf3.png)
+![검흰흰](https://user-images.githubusercontent.com/68771699/219304641-c3cd0170-9347-4802-95ba-24b4ebdde57b.png)
 
 ## 🚀목차
 1. 진행기간
