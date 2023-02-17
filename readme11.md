@@ -161,7 +161,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ### ✅ 차단 기능
 
-![image](https://user-images.githubusercontent.com/68771699/219309056-f4fade4d-0da0-4e39-ad4a-2adc087e8789.png)
+![chadan](https://user-images.githubusercontent.com/68771699/219527346-68c29c24-4576-4346-8cfe-8a5fa3c9f375.gif)
 
 
 - 보고싶지 않은 사람을 차단합니다.
