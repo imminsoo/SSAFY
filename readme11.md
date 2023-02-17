@@ -179,7 +179,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ### 📎 UCC
 
-[UCC링크](https://www.youtube.com/watch?v=d16pkOH0JWI)
+### [UCC링크](https://www.youtube.com/watch?v=d16pkOH0JWI)
 
 ## 📌 5. 프로젝트 산출물
 
