@@ -77,7 +77,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ### ✅ 러닝크루 모집 / 예약 기능
 
-![image](https://user-images.githubusercontent.com/68771699/219305392-e09d79df-d782-49cd-8a16-207cbbbb8f9d.png)
+![runningcrew](https://user-images.githubusercontent.com/68771699/219556342-fb851f01-646d-455c-b591-a78a98070286.gif)
 
 - **러닝 모임 작성**
     - 해시태그, 남녀인원, 위치등을 추가하여 러닝 모임 작성이 가능합니다.
