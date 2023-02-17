@@ -133,7 +133,7 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
   
 ### ✅ 검색 기능
 
-![image](https://user-images.githubusercontent.com/68771699/219307184-30362f89-a34e-413d-955b-86cdc867d24c.png)
+![search](https://user-images.githubusercontent.com/68771699/219526690-b1fe39e8-8c8c-4c56-ad04-b77833fafe17.gif)
 
 - 피드별, 유저별, 러닝크루별로 검색할 수 있습니다.
 
